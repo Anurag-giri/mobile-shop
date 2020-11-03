@@ -1,0 +1,22 @@
+#product_detail_img_info {
+    height: 500px;
+    width: 280px;
+    max-width: 280px;
+    max-height: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.next-icon-left {
+	font-size:40px; 
+	font-weight:600; 
+	position: relative;
+	float : left;
+}
+
+.next-icon-right {
+	font-size:40px; 
+	font-weight:600; 
+	position: relative;
+	float : right;
+}
